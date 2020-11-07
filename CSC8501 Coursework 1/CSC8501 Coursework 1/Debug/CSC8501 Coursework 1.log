@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\Jamie\Documents\CSC8501 Coursework 1\CSC8501 Coursework 1\Main.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Menu.cpp
+C:\Users\Jamie\Documents\CSC8501 Coursework 1\CSC8501 Coursework 1\Menu.cpp(34,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Maze.cpp
+  MazeGenerator.cpp
+  Generating Code...
+  CSC8501 Coursework 1.vcxproj -> C:\Users\Jamie\Documents\CSC8501 Coursework 1\Debug\CSC8501 Coursework 1.exe
